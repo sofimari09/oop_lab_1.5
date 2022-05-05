@@ -1,0 +1,4 @@
+﻿  Pair.cpp
+D:\STUDY\2_семестр\ООП\1.5\oop_1.5\Pair.cpp(17,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\STUDY\2_семестр\ООП\1.5\oop_1.5\Pair.cpp(17,38): warning C4804: '<=': unsafe use of type 'bool' in operation
+  oop_1.5.vcxproj -> D:\STUDY\2_семестр\ООП\1.5\oop_1.5\Debug\oop_1.5.exe
